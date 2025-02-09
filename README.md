@@ -1,5 +1,3 @@
-# ClonarRepositorios
-
 ```
 git init
 ```
